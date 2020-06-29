@@ -21,7 +21,7 @@
 ### 電子
 * 電子版不需推薦書、審定書、圖書館授權書，可以參考 [這個網頁的下面](http://registra.site.nthu.edu.tw/var/file/211/1211/img/75/203558730.pdf)
 * 至 圖書館網頁、研究服務、論文繳交、上傳論文 填入相關資訊，老師的名子在系統裡要和論文裡一致，例如我（你誰）論文裡是打Jerry Chou，系統裡要打Chou, Jerry（因為系統一定要 姓, 名）
-* 電子版檔案依照 [說明](http://www.lib.nthu.edu.tw/ETD/downloads/upload.pdf) 修改後上傳
+* 電子版檔案依照 [說明](http://www.lib.nthu.edu.tw/ETD/downloads/upload.pdf) 修改後上傳（都要保護、設定高品質列印）
 * 等待系辦、圖書館審核
 * 審核通過後即可取得授權書檔案
 
