@@ -73,6 +73,7 @@
 ## 拿畢業證書
 * 確認校務系統步驟四都已完成
 * 如果有計畫薪水還沒給，建議問一下計畫助理
+* 畢業前可以申請各種學生免費服務，像是 [GitHub Student Developer Pack](https://education.github.com/pack) 裡的各種服務、[Autodesk Student Free Educational Resources](https://www.autodesk.com/education/students) 等等。
 * 要買教育價Apple產品記得趕快買
 * 帶學生證去註冊組拿畢業證書！！！（YA!）
 
