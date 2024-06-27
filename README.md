@@ -42,7 +42,7 @@
 
 ## 送出論文（電子、紙本）
 * 依照 template 撰寫論文、向老師確認論文內容已完備
-  * Overleaf compiler 要用 XeLaTex
+  * Overleaf compiler 要用 pdfLaTex
   * Template 可以使用 <https://github.com/elsa-lab/NTHUthesis>
 
 ### 電子
