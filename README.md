@@ -46,11 +46,14 @@
 * 依照 template 撰寫論文、向老師確認論文內容已完備
   * Overleaf compiler 要用 XeLaTex (如果 compile 失敗，改用 pdfLaTex 也可以)
   * Template 可以使用 <https://github.com/elsa-lab/NTHUthesis>
+  * 封面中月份要與口試審定書上日期一致。
 
 ### 電子
 * 電子版不需推薦書、審定書、圖書館授權書，可以參考 [這個網頁的下面](http://registra.site.nthu.edu.tw/var/file/211/1211/img/75/203558730.pdf)
   * 詳細資訊可參考 系網頁->學生資源->畢業相關規定->碩士班畢業程序 或是 [圖書館博碩士論文下載區](https://www.lib.nthu.edu.tw/ETD/downloads/downloads.htm)
-* 至 圖書館網頁->研究服務->論文繳交->上傳論文 填入相關資訊，老師的名子在系統裡要和論文裡一致，例如我（你誰）論文裡是打Jerry Chou，系統裡要打Chou, Jerry（因為系統一定要 姓, 名）
+* 至 圖書館網頁->研究服務->論文繳交->上傳論文 填入相關資訊，老師的名子在系統裡要和論文裡一致，例如論文裡是打Jerry Chou，系統裡要打Chou, Jerry（因為系統一定要 姓, 名）
+* 圖書館上傳論文的服務如果做到一半要關掉網頁，**務必先按登出系統**，不然會被鎖住。
+  * 如果不幸被鎖住了可以去圖書館一樓櫃檯找人解鎖。
 * 電子版檔案依照 [說明](http://www.lib.nthu.edu.tw/ETD/downloads/upload.pdf) 修改後上傳（都要保護、設定高品質列印）
   * 論文電子全文和摘要 PDF 都須設定保護（限制編輯）
 * 等待系辦、圖書館審核
