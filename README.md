@@ -61,7 +61,9 @@
 * 依照 template 撰寫論文、向老師確認論文內容已完備
   * LSALAB 可以在 OverLeaf 上參考學長姐的論文
   * Overleaf compiler 要用 XeLaTex (如果 compile 失敗，改用 pdfLaTex 也可以)
-  * Template 可以使用 [NTHU_Thesis_Template_2025.zip](NTHU_Thesis_Template_2025.zip)
+  * 關於論文模板：
+    * 檔案 [NTHU_Thesis_Template_2025.zip](NTHU_Thesis_Template_2025.zip) 僅供參考，版本可能過舊。
+    * 請務必至 [國立清華大學圖書館網站](https://www.lib.nthu.edu.tw/use/thesis_template.html) 下載最新版本。
   * 封面中月份要與口試審定書上日期一致。
 
 ### 電子
